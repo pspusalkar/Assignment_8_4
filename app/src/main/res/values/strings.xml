@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_8_4</string>
+    <string name="action_settings">Settings</string>
+    <string name="gingerBread">GingerBread</string>
+    <string name="honeyComb">GingerBread</string>
+    <string name="iceCream">IceCream</string>
+    <string name="jellybean">JellyBean</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="lollipop">Lollipop</string>
+</resources>
